@@ -1,0 +1,1 @@
+# eslint-prettier-husky-lintstaged-commitlint-commitizen-template
