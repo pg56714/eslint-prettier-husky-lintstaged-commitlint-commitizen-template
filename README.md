@@ -138,3 +138,4 @@ Alternatively, use `git commit -m "your message"` for manual commits.
 ## Additional Resources
 
 - [Setup Tutorial Video](https://www.youtube.com/watch?v=tmTajqVgkwI)
+- [commitizen](https://ithelp.ithome.com.tw/m/articles/10328826)
