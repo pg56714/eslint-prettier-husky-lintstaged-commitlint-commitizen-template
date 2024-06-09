@@ -139,3 +139,4 @@ Alternatively, use `git commit -m "your message"` for manual commits.
 
 - [Setup Tutorial Video](https://www.youtube.com/watch?v=tmTajqVgkwI)
 - [commitizen](https://ithelp.ithome.com.tw/m/articles/10328826)
+- The ESLint used here is built into React. If you need additional rules, you can install the ESLint package.
