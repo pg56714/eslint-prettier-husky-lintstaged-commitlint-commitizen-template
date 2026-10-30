@@ -1,5 +1,7 @@
 # eslint-prettier-husky-lintstaged-commitlint-commitizen-template
 
+> **Security:** see [SECURITY.md](SECURITY.md) for known dependency issues.
+
 This guide provides a step-by-step tutorial to integrate ESLint, Prettier, Husky, lint-staged, Commitlint, and Commitizen in a `create-react-app` project.
 
 ## Step 1: Create React App
