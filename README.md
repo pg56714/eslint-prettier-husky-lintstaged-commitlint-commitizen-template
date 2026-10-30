@@ -1,5 +1,7 @@
 # eslint-prettier-husky-lintstaged-commitlint-commitizen-template
 
+> **Security:** see [SECURITY.md](SECURITY.md) for known dependency issues.
+
 This guide provides a step-by-step tutorial to integrate ESLint, Prettier, Husky, lint-staged, Commitlint, and Commitizen in a `create-react-app` project.
 
 ## Step 1: Create React App
@@ -140,7 +142,3 @@ Alternatively, use `git commit -m "your message"` for manual commits.
 - [Setup Tutorial Video](https://www.youtube.com/watch?v=tmTajqVgkwI)
 - [commitizen](https://ithelp.ithome.com.tw/m/articles/10328826)
 - The ESLint used here is built into React. If you need additional rules, you can install the ESLint package.
-
-## Security
-
-Dependency upgrades and the known remaining issues are recorded in [docs/security-log.md](docs/security-log.md) ([繁體中文](docs/security-log.zh-TW.md)).
